@@ -1,0 +1,6 @@
+node_modules
+.env
+.env.e2e
+.vscode
+build
+Trading (2).zip
